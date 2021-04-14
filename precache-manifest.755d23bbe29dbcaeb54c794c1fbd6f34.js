@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "456f4c01be61c20dc0ea9bc6e0ef0dd9",
+    "revision": "5226385ab19638d9281f55e66bdf1550",
     "url": "/BiswarupPortfolio/index.html"
   },
   {
-    "revision": "1813771b0d386c9092fd",
+    "revision": "305b3ba2a2898fdc2b53",
     "url": "/BiswarupPortfolio/static/css/main.fafb11fc.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BiswarupPortfolio/static/js/2.d86a004d.chunk.js"
   },
   {
-    "revision": "1813771b0d386c9092fd",
-    "url": "/BiswarupPortfolio/static/js/main.3df93056.chunk.js"
+    "revision": "305b3ba2a2898fdc2b53",
+    "url": "/BiswarupPortfolio/static/js/main.b0f4e44a.chunk.js"
   },
   {
     "revision": "c6325b67466ccabb6a76",

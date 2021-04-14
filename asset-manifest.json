@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BiswarupPortfolio/static/css/main.fafb11fc.chunk.css",
-    "main.js": "/BiswarupPortfolio/static/js/main.3df93056.chunk.js",
-    "main.js.map": "/BiswarupPortfolio/static/js/main.3df93056.chunk.js.map",
+    "main.js": "/BiswarupPortfolio/static/js/main.b0f4e44a.chunk.js",
+    "main.js.map": "/BiswarupPortfolio/static/js/main.b0f4e44a.chunk.js.map",
     "runtime-main.js": "/BiswarupPortfolio/static/js/runtime-main.b54e3e38.js",
     "runtime-main.js.map": "/BiswarupPortfolio/static/js/runtime-main.b54e3e38.js.map",
     "static/js/2.d86a004d.chunk.js": "/BiswarupPortfolio/static/js/2.d86a004d.chunk.js",
     "static/js/2.d86a004d.chunk.js.map": "/BiswarupPortfolio/static/js/2.d86a004d.chunk.js.map",
     "index.html": "/BiswarupPortfolio/index.html",
-    "precache-manifest.6cdaae31182edb6ac1adbced59e80da4.js": "/BiswarupPortfolio/precache-manifest.6cdaae31182edb6ac1adbced59e80da4.js",
+    "precache-manifest.755d23bbe29dbcaeb54c794c1fbd6f34.js": "/BiswarupPortfolio/precache-manifest.755d23bbe29dbcaeb54c794c1fbd6f34.js",
     "service-worker.js": "/BiswarupPortfolio/service-worker.js",
     "static/css/main.fafb11fc.chunk.css.map": "/BiswarupPortfolio/static/css/main.fafb11fc.chunk.css.map",
     "static/media/index.css": "/BiswarupPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -56,6 +56,6 @@
     "static/js/runtime-main.b54e3e38.js",
     "static/js/2.d86a004d.chunk.js",
     "static/css/main.fafb11fc.chunk.css",
-    "static/js/main.3df93056.chunk.js"
+    "static/js/main.b0f4e44a.chunk.js"
   ]
 }
